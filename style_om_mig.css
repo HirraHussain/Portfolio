@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(Image/portfolio/shapelined-_JBKdviweXI-unsplash.jpg);
+    }
+
+    main{
+        min-height: 1000px;
+        text-decoration: none;
+        color:rgb(0, 0, 0);
+        padding: 3px;
+        padding-left: -100px;
+        padding-right: 700px;
+        padding-top: 100px;
+    }
+    footer{
+        background-color: rgba(0, 0, 0, 0.205);
+        min-height: 50px;
+    }
+    footer p{
+        color: white;
+    }
+    .simple{
+        display: flex;
+        justify-content: space-between;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        padding: 15px;
+        background-color: rgba(0, 0, 0, 0.205);
+    
+    }
+    .simple a{
+        text-decoration: none;
+        margin-left: 20px;
+        color:rgb(0, 0, 0);
+        padding: 3px;
+        display: flex;
+    }  
+    .simple a:hover{
+        background-image: linear-gradient(rgba(0, 0, 0, 0.356), rgb(255, 255, 255));
+        border-radius: 0 0 5px 5px;
+        padding: 10px 20px 9px 20px;
+        margin-bottom: -1px;
+    }
+    .simple nav{
+        width: 500px;
+        display: flex;
+        justify-content:space-around;
+    }
+h1{
+    margin-left: 100px;
+    margin-left:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box_1{
+    margin-left: 100px;
+    margin-left:50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.box_1 span{
+    color:rgb(223, 220, 45);
+    background-color: black;
+}
+.box_2{
+margin-top: 50px;
+margin-left: 50px;
+margin-right: -700px;
+}
+
+.box_3{
+    margin-top: -750px;
+    margin-left: 750px;
+    margin-right: -700px; 
+}
